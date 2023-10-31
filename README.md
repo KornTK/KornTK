@@ -6,7 +6,7 @@ You can find me on:
 
 - [LinkedIn](https://www.linkedin.com/in/korntk/)
 - [Facebook](https://www.facebook.com/adminkornthai)
-- [Website](www.korntk.com)
+- [Website](https://www.korntk.com)
 - [GitHub](https://github.com/KornTK)
 
 Feel free to explore my projects and repositories! If you have any questions or would like to collaborate, don't hesitate to reach out.
